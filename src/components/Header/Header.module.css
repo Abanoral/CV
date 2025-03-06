@@ -1,0 +1,27 @@
+.header {
+  background-color: hsla(220, 26%, 14%, 1);
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.navContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.navList {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+}
+
+.navItem {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.navLink:hover {
+  color: hsla(212, 96%, 78%, 1);
+}
