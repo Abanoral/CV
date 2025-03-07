@@ -1,0 +1,37 @@
+.footer {
+  background-color: hsla(220, 26%, 14%, 1);
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.p {
+  display: flex;
+  align-items: center;
+}
+
+.navContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.navList {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.navItem {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.navIcon {
+  display: flex;
+  align-items: center;
+}
+
+.navLink {
+  line-height: 1;
+}
