@@ -6,6 +6,6 @@
 
 ## Contact
 
-[github](https://github.com/Abanoral)
+[Github](https://github.com/Abanoral)
 
 [Linkedin](https://www.linkedin.com/in/alejandroabadnoriega/)
